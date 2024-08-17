@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.product-card {
+  margin-bottom: 20px;
+}
+
+.product-title {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.product-price {
+  color: green;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.img {
+  width: 1300;
+  height: 1950;
+}
